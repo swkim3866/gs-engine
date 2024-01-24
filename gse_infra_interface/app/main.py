@@ -1,5 +1,5 @@
 """[summary]
-Main Flask System APP Module
+Main Flask System APP Module API Infra-Interface
 """
 from flask import Flask, redirect, url_for, session
 from flask_cors import CORS, cross_origin
